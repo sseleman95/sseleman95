@@ -1,0 +1,118 @@
+AddDefaultCharset utf-8
+FileETag MTime Size
+
+# Disable directory browsing
+Options All -Indexes
+
+# ----------------------------------------------------------------------
+# Rewrite engine
+# ----------------------------------------------------------------------
+
+# Turning on the rewrite engine is necessary for the following rules and features.
+# FollowSymLinks must be enabled for this to work.
+<IfModule mod_rewrite.c>
+
+	Options +FollowSymlinks
+
+	# Turn on URL rewriting
+	RewriteEngine On
+
+	# If you installed CodeIgniter in a subfolder, you will need to
+	# change the following line to match the subfolder you need.
+	# http://httpd.apache.org/docs/current/mod/mod_rewrite.html#rewritebase
+	RewriteBase /
+
+	# Redirect Trailing Slashes...
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteCond %{REQUEST_URI} (.+)/$
+	RewriteRule ^ %1 [L,R=301]
+
+	# Rewrite "www.example.com -> example.com"
+	RewriteCond %{HTTPS} !=on
+	RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+	RewriteRule ^ http://%1%{REQUEST_URI} [R=301,L]
+
+	# Checks to see if the user is attempting to access a valid file,
+	# such as an image or css document, if this isn't true it sends the
+	# request to the front controller, index.php
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteRule ^([\s\S]*)$ index.php/$1 [L,NC,QSA]
+	# RewriteRule ^([\s\S]*)$ index.php?/$1 [L,NC,QSA]
+
+	# Ensure Authorization header is passed along
+	RewriteCond %{HTTP:Authorization} .
+	RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+	# Protect application and system files from being viewed when the index.php is missing
+    RewriteCond $1 ^(app|system|tests|writable|assets)
+
+    # Rewrite to index.php/access_denied/URL
+    #RewriteRule ^(.*)$ index.php/access_denied/$1 [PT,L]
+
+	# Allow these directories and files to be displayed directly:
+    RewriteCond $1 ^(index\.php|robots\.txt|favicon\.ico|assets|css|js|images|img|plugins|audio)
+
+	# No rewriting
+    RewriteRule ^(.*)$ - [PT,L]
+
+    # Rewrite to index.php/URL
+	RewriteRule ^(.*)$ /index.php/$1 [L]
+    RewriteRule ^(.*)$ index.php/$1 [PT,L]
+</IfModule>
+
+<IfModule !mod_rewrite.c>
+	# If we don't have mod_rewrite installed, all 404's
+	# can be sent to index.php, and everything works as normal.
+	ErrorDocument 404 index.php
+
+	#RewriteRule ^(.*)$ / [L,QSA]
+	RewriteRule ^(.*)$ ./index.php?/$1 [L,QSA]
+</IfModule>
+
+# Disable server signature start
+	ServerSignature Off
+# Disable server signature end
+
+<IfModule mod_headers.c>
+	#Content-Type: text/html; charset=UTF-8
+	#X-Content-Type-Options: nosniff
+	Header set X-Frame-Options: SAMEORIGIN
+	Header set X-XSS-Protection: 1;mode=block
+	#Header set X-XSS-Protection: 1; report=http://
+	#Content-Security-Policy: default-src: 'self'; script-src: 'self' static.domain.tld
+	Header set X-Content-Type-Options nosniff
+	Header set X-UA-Compatible "IE=Edge,chrome=1"
+
+	#mod_headers can't match by content-type, but we don't want to send this header on *everything*...
+	<FilesMatch "\.(js|css|gif|png|jpe?g|jpg|pdf|xml|oga|ogg|m4a|ogv|mp4|m4v|webm|svg|svgz|eot|ttf|otf|woff|woff2|ico|webp|appcache|manifest|htc|crx|oex|xpi|safariextz|vcf)$" >
+		Header unset X-UA-Compatible
+	</FilesMatch>
+</IfModule>
+
+<FilesMatch "(\.(bak|config|sql|ddl|fla|psd|ini|log|sh|inc|swp|dist)|~)$">
+	Order allow,deny
+	Deny from all
+	Satisfy All
+</FilesMatch>
+
+<IfModule mod_expires.c>
+	ExpiresActive On
+	ExpiresDefault A3600
+	
+	<FilesMatch \.js$>
+		ExpiresDefault A43200
+	</FilesMatch>
+
+	<FilesMatch \.css$>
+		ExpiresDefault A172800
+	</FilesMatch>
+
+	<FilesMatch \.(?:gif|jpe?g|png|ico)$>
+		ExpiresDefault A604800
+	</FilesMatch>
+
+	<FilesMatch \.php$>
+		ExpiresActive Off
+	</FilesMatch>
+</IfModule>
