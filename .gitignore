@@ -36,6 +36,52 @@ $RECYCLE.BIN/
 # Linux trash folder which might appear on any partition or disk
 .Trash-*
 
+#-------------------------
+# Environment Files
+#-------------------------
+# These should never be under version control,
+# as it poses a security risk.
+#.env
+.vagrant
+Vagrantfile
+phpunit.xml.dist
+
+#-------------------------
+# Temporary Files
+#-------------------------
+writable/cache/*
+!writable/cache/index.html
+
+writable/logs/*
+!writable/logs/index.html
+
+writable/session/*
+!writable/session/index.html
+
+writable/uploads/*
+!writable/uploads/index.html
+
+writable/debugbar/*
+!writable/uploads/index.html
+
+writable/templates/*
+!writable/uploads/index.html
+
+php_errors.log
+
+#-------------------------
+# User Guide Temp Files
+#-------------------------
+user_guide_src/build/*
+user_guide_src/cilexer/build/*
+user_guide_src/cilexer/dist/*
+user_guide_src/cilexer/pycilexer.egg-info/*
+
+#-------------------------
+# Test Files
+#-------------------------
+tests/coverage*
+
 # Don't save phpunit under version control.
 phpunit
 
@@ -91,3 +137,11 @@ nb-configuration.xml
 # Templete
 #-------------------------
 templetes/*
+
+#-------------------------
+# Data Base
+#-------------------------
+database/*
+
+app/Config/App.php
+app/Config/DataBase.php
