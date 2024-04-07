@@ -49,23 +49,6 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 
-
-
-**abdulkadirlevent/abdulkadirlevent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![abdulkadirlevent GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulkadirlevent&count_private=true&show_icons=true&theme=chartreuse-dark)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 [#ansible]:         https://img.shields.io/badge/Ansible-000000?style=flat&logo=ansible
 [#aws]:             https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black
 [#bash]:            https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white "Bash Script"
@@ -92,14 +75,14 @@ Here are some ideas to get you started:
 [#rancher]:         https://img.shields.io/badge/Rancher-0075A8?style=flat&logo=rancher
 [#terraform]:       https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform
 [#vagrant]:         https://img.shields.io/badge/Vagrant-1868F2?style=flat&logo=vagrant
-<!-- [#mongodb]:    https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white -->
-<!-- [#mysql]:      https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white -->
-<!-- [#nodejs]:     https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white -->
-<!-- [#python]:     https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white -->
-<!-- [#react]:      https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB -->
-<!-- [#sass]:       https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white -->
-<!-- [#typescript]: https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white -->
 
+[#mongodb]:         https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white
+[#mysql]:           https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white
+[#nodejs]:          https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white
+[#python]:          https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
+[#react]:           https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
+[#sass]:            https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white
+[#typescript]:      https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white
 [#discord]:         https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white
 [#dockerhub]:       https://img.shields.io/badge/Docker_Hub-294356?style=flat&logo=docker&logoColor=white
 [#gmail]:           https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white
@@ -107,11 +90,9 @@ Here are some ideas to get you started:
 [#linkedin]:        https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin
 
 <!-- URL Index -->
-
 [@discord]:         https://discordapp.com/users/336617881985089537 "Contact me on Discord!"
 [@gmail]:           mailto:hasanumutyagci@gmail.com "Send me an email!"
 [@linkedin]:        https://www.linkedin.com/in/hasanumutyagci
-
 [@dockerhub]:       https://hub.docker.com/u/huyagci
 [@gitlab]:          https://gitlab.com/huyagci
 [@hackerrank]:      https://www.hackerrank.com/huyagci
