@@ -7,7 +7,7 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 
 ## 🚀💻 Technologies & Tools
 > ##### _Common_ &nbsp; ![Linux][#linux] ![Git][#git] ![Github][#github] <!--![Gitlab][#gitlab]--> <!--![Jira Software][#jira-software]--> ![VS Code][#vs-code] ![Postman][#postman] ![Markdown][#markdown] ![LaTeX][#latex]
-> ##### _Frontend_ &nbsp; ![HTML][#html] ![CSS][#css] ![Bootstrap][#bootstrap] ![JavaScript][#javascript]
+> ##### _Frontend_ &nbsp; ![HTML][#html] ![CSS][#css] ![Bootstrap][#bootstrap] ![JavaScript][#javascript] ![jQuery][#jquery] ![Canva][#canva] ![Figma][#figma]
 > ##### _DevOps_ &nbsp;&nbsp;&nbsp; ![Bash][#bash] ![Github Actions][#gh-actions] ![Gitlab CI/CD][#gl-cicd] ![Docker][#docker] ![Terraform][#terraform] ![AWS][#aws] ![Vagrant][#vagrant]
 > ##### _Learning_ &nbsp; ![Kubernetes][#kubernetes] ![Rancher][#rancher] ![Helm][#helm] ![Prometheus][#prometheus] ![Grafana][#grafana]
 > ##### _Up Next_ &nbsp;&nbsp; ![PostgresSQL][#postgresql] ![Ansible][#ansible] ![Jenkins][#jenkins] ![Go][#go]
@@ -46,8 +46,10 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [#git]:             https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white
 [#github]:          https://img.shields.io/badge/Github-181717?style=flat&logo=github
 [#gitlab]:          https://img.shields.io/badge/Gitlab-330F63?style=flat&logo=gitlab
-[#vs-code]:         https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code
-[#postman]:         https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman
+[#vs-code]:         https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code
+[#postman]:         https://img.shields.io/badge/Postman-black?style=flat&logo=postman
+[#canva]:           https://img.shields.io/badge/Canva-7952B3?style=flat&logo=canva
+[#figma]:           https://img.shields.io/badge/Figma-4169E1?style=flat&logo=figma
 [#gh-actions]:      https://img.shields.io/badge/Actions-2088FF?style=flat&logo=githubactions&logoColor=white "Github Actions"
 [#gl-cicd]:         https://img.shields.io/badge/CI/CD-330F63?style=flat&logo=gitlab "Gitlab CI/CD"
 [#go]:              https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white
@@ -55,6 +57,7 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [#helm]:            https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm
 [#html]:            https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
 [#javascript]:      https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E
+[#jquery]:          https://img.shields.io/badge/jQuery-323330?style=flat&logo=jquery&logoColor=blue
 [#jenkins]:         https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white
 [#jira-software]:   https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jirasoftware "Jira Software"
 [#kubernetes]:      https://img.shields.io/badge/Kubernetes-326CE5?&style=flat&logo=kubernetes&logoColor=white
@@ -66,7 +69,6 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [#rancher]:         https://img.shields.io/badge/Rancher-0075A8?style=flat&logo=rancher
 [#terraform]:       https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform
 [#vagrant]:         https://img.shields.io/badge/Vagrant-1868F2?style=flat&logo=vagrant
-
 [#mongodb]:         https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white
 [#mysql]:           https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white
 [#nodejs]:          https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white
@@ -79,7 +81,6 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [#gmail]:           https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white
 [#hackerrank]:      https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white
 [#linkedin]:        https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin
-
 [@discord]:         https://discordapp.com/users/336617881985089537 "Contact me on Discord!"
 [@gmail]:           mailto:hasanumutyagci@gmail.com "Send me an email!"
 [@linkedin]:        https://www.linkedin.com/in/hasanumutyagci
