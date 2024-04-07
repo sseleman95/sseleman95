@@ -16,7 +16,7 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseleman95&layout=compact&langs_count=8&theme=algolia)](https://github.com/sseleman95)
 
-[![sseleman95 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sseleman95&theme=algolia)](https://github.com/sseleman95)
+[![sseleman95 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sseleman95&layout=compact&theme=algolia)](https://github.com/sseleman95)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sseleman95&show_icons=true&theme=algolia)](https://github.com/sseleman95)
 
@@ -65,12 +65,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-
-
-<!-- Badge Index -->
 
 [#ansible]:         https://img.shields.io/badge/Ansible-000000?style=flat&logo=ansible
 [#aws]:             https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black
