@@ -5,31 +5,14 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 
 ---------------
 
- ## :bicyclist: Benim yolculuğum
-> ##### _Common_ &nbsp; ![Linux][#linux] ![Git][#git] ![Github][#github] ![Gitlab][#gitlab] ![Jira Software][#jira-software] ![Markdown][#markdown]
+## 🚀💻 Technologies & Tools
+> ##### _Common_ &nbsp; ![Linux][#linux] ![Git][#git] ![Github][#github] <!--![Gitlab][#gitlab]--> <!--![Jira Software][#jira-software]--> ![VS Code][#vs-code] ![Postman][#postman] ![Markdown][#markdown] ![LaTeX][#latex]
 > ##### _Frontend_ &nbsp; ![HTML][#html] ![CSS][#css] ![Bootstrap][#bootstrap] ![JavaScript][#javascript]
 > ##### _DevOps_ &nbsp;&nbsp;&nbsp; ![Bash][#bash] ![Github Actions][#gh-actions] ![Gitlab CI/CD][#gl-cicd] ![Docker][#docker] ![Terraform][#terraform] ![AWS][#aws] ![Vagrant][#vagrant]
 > ##### _Learning_ &nbsp; ![Kubernetes][#kubernetes] ![Rancher][#rancher] ![Helm][#helm] ![Prometheus][#prometheus] ![Grafana][#grafana]
 > ##### _Up Next_ &nbsp;&nbsp; ![PostgresSQL][#postgresql] ![Ansible][#ansible] ![Jenkins][#jenkins] ![Go][#go]
 
-[![sseleman95 GitHub stats](https://github-readme-stats.vercel.app/api?username=sseleman95&show_icons=true&theme=algolia)](https://github.com/sseleman95)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseleman95&layout=compact&langs_count=8&theme=algolia)](https://github.com/sseleman95)
-
-[![sseleman95 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sseleman95&layout=compact&theme=algolia)](https://github.com/sseleman95)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sseleman95&show_icons=true&theme=algolia)](https://github.com/sseleman95)
-
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)-->
-
-🔭 Şu anda üzerinde çalışıyorum ... 👋
-
-## 🚀💻 Technologies & Tools
-
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-  ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 
   ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
@@ -42,6 +25,18 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 
+
+[![sseleman95 GitHub stats](https://github-readme-stats.vercel.app/api?username=sseleman95&show_icons=true&theme=algolia)](https://github.com/sseleman95)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseleman95&layout=compact&langs_count=8&theme=algolia)](https://github.com/sseleman95)
+
+[![sseleman95 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sseleman95&layout=compact&theme=algolia)](https://github.com/sseleman95)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sseleman95&show_icons=true&theme=algolia)](https://github.com/sseleman95)
+
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sseleman95&repo=sseleman95&theme=algolia)](https://github.com/sseleman95/sseleman95)-->
+
+<!-- URL Index -->
 [#ansible]:         https://img.shields.io/badge/Ansible-000000?style=flat&logo=ansible
 [#aws]:             https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black
 [#bash]:            https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white "Bash Script"
@@ -51,6 +46,8 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [#git]:             https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white
 [#github]:          https://img.shields.io/badge/Github-181717?style=flat&logo=github
 [#gitlab]:          https://img.shields.io/badge/Gitlab-330F63?style=flat&logo=gitlab
+[#vs-code]:         https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code
+[#postman]:         https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman
 [#gh-actions]:      https://img.shields.io/badge/Actions-2088FF?style=flat&logo=githubactions&logoColor=white "Github Actions"
 [#gl-cicd]:         https://img.shields.io/badge/CI/CD-330F63?style=flat&logo=gitlab "Gitlab CI/CD"
 [#go]:              https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white
@@ -63,6 +60,7 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [#kubernetes]:      https://img.shields.io/badge/Kubernetes-326CE5?&style=flat&logo=kubernetes&logoColor=white
 [#linux]:           https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black
 [#markdown]:        https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown
+[#latex]:           https://img.shields.io/badge/LaTeX-fffff?style=flat&logo=latex
 [#postgresql]:      https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white
 [#prometheus]:      https://img.shields.io/badge/Prometheus-20232A?style=flat&logo=prometheus
 [#rancher]:         https://img.shields.io/badge/Rancher-0075A8?style=flat&logo=rancher
@@ -82,7 +80,6 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [#hackerrank]:      https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white
 [#linkedin]:        https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin
 
-<!-- URL Index -->
 [@discord]:         https://discordapp.com/users/336617881985089537 "Contact me on Discord!"
 [@gmail]:           mailto:hasanumutyagci@gmail.com "Send me an email!"
 [@linkedin]:        https://www.linkedin.com/in/hasanumutyagci
