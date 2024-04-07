@@ -12,11 +12,15 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 > ##### _Learning_ &nbsp; ![Kubernetes][#kubernetes] ![Rancher][#rancher] ![Helm][#helm] ![Prometheus][#prometheus] ![Grafana][#grafana]
 > ##### _Up Next_ &nbsp;&nbsp; ![PostgresSQL][#postgresql] ![Ansible][#ansible] ![Jenkins][#jenkins] ![Go][#go]
 
-[![sseleman95 github stats](https://github-readme-stats.vercel.app/api?username=sseleman95&show_icons=true&theme=algolia)](https://github.com/sseleman95)
+[![sseleman95 GitHub stats](https://github-readme-stats.vercel.app/api?username=sseleman95&show_icons=true&theme=algolia)](https://github.com/sseleman95)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseleman95&theme=algolia)](https://github.com/sseleman95)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseleman95&layout=compact&langs_count=8&theme=algolia)](https://github.com/sseleman95)
+
+[![sseleman95 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sseleman95&theme=algolia)](https://github.com/sseleman95)
 
 [![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=sseleman95&show_icons=true&theme=algolia)](https://github.com/sseleman95)
+
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)-->
 
 🔭 Şu anda üzerinde çalışıyorum ... 👋
 
