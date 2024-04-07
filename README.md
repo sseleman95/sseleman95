@@ -18,7 +18,7 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 
 [![sseleman95 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sseleman95&theme=algolia)](https://github.com/sseleman95)
 
-[![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=sseleman95&show_icons=true&theme=algolia)](https://github.com/sseleman95)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sseleman95&show_icons=true&theme=algolia)](https://github.com/sseleman95)
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)-->
 
