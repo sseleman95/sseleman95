@@ -97,12 +97,18 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [#php]:             https://img.shields.io/badge/PHP-4D588E?style=flat&logo=php&logoColor=white
 [#codeigniter]:     https://img.shields.io/badge/CodeIgniter-DD4814?style=flat&logo=codeigniter&logoColor=white
 [#lavarel]:         https://img.shields.io/badge/Lavarel-DD4814?style=flat&logo=lavarel&logoColor=white
-[#java]:            https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white
+[#java]:            https://img.shields.io/badge/Java?style=flat&logo=java&logoColor=white
 [#nodejs]:          https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white
 [#python]:          https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
 [#react]:           https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
 [#sass]:            https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white
 [#android]:         https://img.shields.io/badge/Android-05150C?style=flat&logo=android&logoColor=white
+
+[#lean]:         https://img.shields.io/badge/Lean?style=flat&logo=lean&logoColor=white
+[#scrum]:         https://img.shields.io/badge/Scrum?style=flat&logo=scrum&logoColor=white
+[#kanban]:         https://img.shields.io/badge/Kanban?style=flat&logo=kanban&logoColor=white
+[#pair-programming]:         https://img.shields.io/badge/-Pair%20Programming?style=flat&logo=pair-programming&logoColor=white
+
 [#typescript]:      https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white
 [#hackerrank]:      https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white
 [#dockerhub]:       https://img.shields.io/badge/Docker_Hub-294356?style=flat&logo=docker&logoColor=white
