@@ -6,39 +6,28 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 ---------------
 
 ## 🚀💻 Technologies & Tools
-> ##### _Common_ &nbsp; ![Linux][#linux] ![Git][#git] ![Github][#github] <!--![Gitlab][#gitlab]--> <!--![Jira Software][#jira-software]--> ![VS Code][#vs-code] ![Postman][#postman] ![Markdown][#markdown] ![LaTeX][#latex] ![Google Chrome][#google-chrome]
+> ##### _Common_ &nbsp; ![Linux][#linux] ![Git][#git] ![Github][#github] ![VS Code][#vs-code] ![Postman][#postman] ![Markdown][#markdown] ![LaTeX][#latex] ![Google Chrome][#google-chrome]
 > ##### _Design_ &nbsp; ![Canva][#canva] ![Figma][#figma] ![Zeplin][#zeplin] ![Balsamiq][#balsamiq] ![Hotjar][#hotjar] ![Adobe Flash][#adobe-flash] ![Adobe Photoshop][#adobe-photoshop] ![CorelDRAW][#coreldraw]
 > ##### _Frontend_ &nbsp; ![HTML][#html] ![CSS][#css] ![Bootstrap][#bootstrap] ![Foundation][#foundation] ![Tachyons][#tachyons] ![Tailwind CCS][#tailwindcss] ![Bulma][#bulma] ![JavaScript][#javascript] ![jQuery][#jquery]
-> ##### _Backend_ &nbsp; ![PHP][#php]
+> ##### _Backend_ &nbsp; ![PHP][#php] ![CodeIgniter][#codeigniter]
 > ##### _Data Base_ &nbsp; ![MySQL][#mysql] ![MariaDB][#mariadb] ![PostgresSQL][#postgresql]
-<!--> ##### _DevOps_ &nbsp;&nbsp;&nbsp; ![Bash][#bash] ![Github Actions][#gh-actions] ![Gitlab CI/CD][#gl-cicd] ![Docker][#docker] ![Terraform][#terraform] ![AWS][#aws] ![Vagrant][#vagrant]-->
-> ##### _Learning_ &nbsp; ![Kubernetes][#kubernetes] ![Rancher][#rancher] ![Helm][#helm] ![Prometheus][#prometheus] ![Grafana][#grafana]
-> ##### _Up Next_ &nbsp;&nbsp; ![Ansible][#ansible] ![Jenkins][#jenkins] ![Go][#go]
-
+> ##### _Methodologies_ &nbsp; ![Lean][#lean] ![Scrum][#scrum] ![Kanban][#kanban] ![Pair Programming][#pair-programming]
+> ##### _Learning_ &nbsp; ![Lavarel][#lavarel] ![Java][#java] ![Node.js][#nodejs] ![Python][#python] ![React][#react] ![sass][#sass] ![Android][#android]
 
   ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
   ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)
-  ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
-  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 ## Skills
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
 
@@ -103,13 +92,17 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [#vagrant]:         https://img.shields.io/badge/Vagrant-1868F2?style=flat&logo=vagrant
 [#mongodb]:         https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white
 [#mysql]:           https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white
-[#mariadb]:        https://img.shields.io/badge/MariaDB-4E629A?style=flat&logo=mariadb&logoColor=white
+[#mariadb]:         https://img.shields.io/badge/MariaDB-4E629A?style=flat&logo=mariadb&logoColor=white
 [#postgresql]:      https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white
 [#php]:             https://img.shields.io/badge/PHP-4D588E?style=flat&logo=php&logoColor=white
+[#codeigniter]:     https://img.shields.io/badge/CodeIgniter-DD4814?style=flat&logo=codeigniter&logoColor=white
+[#lavarel]:         https://img.shields.io/badge/Lavarel-DD4814?style=flat&logo=lavarel&logoColor=white
+[#java]:            https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white
 [#nodejs]:          https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white
 [#python]:          https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
 [#react]:           https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
 [#sass]:            https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white
+[#android]:         https://img.shields.io/badge/Android-05150C?style=flat&logo=android&logoColor=white
 [#typescript]:      https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white
 [#hackerrank]:      https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white
 [#dockerhub]:       https://img.shields.io/badge/Docker_Hub-294356?style=flat&logo=docker&logoColor=white
