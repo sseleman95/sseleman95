@@ -69,6 +69,7 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [#aws]:             https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black
 [#bash]:            https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white "Bash Script"
 [#bootstrap]:       https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white
+[#foundation]:       https://img.shields.io/badge/Foundation-2C3840?style=flat&logo=foundation&logoColor=white
 [#css]:             https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3
 [#docker]:          https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white
 [#git]:             https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white
@@ -78,6 +79,9 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [#postman]:         https://img.shields.io/badge/Postman-black?style=flat&logo=postman
 [#canva]:           https://img.shields.io/badge/Canva-7952B3?style=flat&logo=canva
 [#figma]:           https://img.shields.io/badge/Figma-4169E1?style=flat&logo=figma
+[#zeplin]:          https://img.shields.io/badge/Zeplin-FDBD39?style=flat&logo=zeplin
+[#balsamiq]:        https://img.shields.io/badge/Balsamiq-333D42?style=flat&logo=balsamiq
+[#hotjar]:          https://img.shields.io/badge/Hotjar-FF3C00?style=flat&logo=hotjar
 [#gh-actions]:      https://img.shields.io/badge/Actions-2088FF?style=flat&logo=githubactions&logoColor=white "Github Actions"
 [#gl-cicd]:         https://img.shields.io/badge/CI/CD-330F63?style=flat&logo=gitlab "Gitlab CI/CD"
 [#go]:              https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white
@@ -117,7 +121,6 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [@gmail]:           mailto:sseleman95@gmail.com "Send me an email!"
 [@linkedin]:        https://www.linkedin.com/in/sseleman95
 [@facebook]:        https://www.facebook.com/sseleman95.liza
-
 [@discord]:         https://discordapp.com/users/401401066991779840 "Contact me on Discord!"
 [@twitch]:          https://www.twitch.tv/sseleman95
 [@dribbble]:        https://dribbble.com/sseleman
