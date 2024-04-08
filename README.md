@@ -10,9 +10,10 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 > ##### _Design_ &nbsp; ![Canva][#canva] ![Figma][#figma] ![Zeplin][#zeplin] ![Balsamiq][#balsamiq] ![Hotjar][#hotjar] ![Adobe Flash][#adobe-flash] ![Adobe Photoshop][#adobe-photoshop] ![CorelDRAW][#coreldraw]
 > ##### _Frontend_ &nbsp; ![HTML][#html] ![CSS][#css] ![Bootstrap][#bootstrap] ![Foundation][#foundation] ![Tachyons][#tachyons] ![Tailwind CCS][#tailwindcss] ![Bulma][#bulma] ![JavaScript][#javascript] ![jQuery][#jquery]
 > ##### _Backend_ &nbsp; ![PHP][#php] ![CodeIgniter][#codeigniter]
+> ##### _Dev Server_ &nbsp; ![Apache][#apache] ![OpenSSL][#openssl]
 > ##### _Data Base_ &nbsp; ![MySQL][#mysql] ![MariaDB][#mariadb] ![PostgresSQL][#postgresql]
 > ##### _Methodologies_ &nbsp; ![Lean][#lean] ![Scrum][#scrum] ![Kanban][#kanban] ![Pair Programming][#pair-programming]
-> ##### _Learning_ &nbsp; ![Lavarel][#lavarel] ![Java][#java] ![Node.js][#nodejs] ![Python][#python] ![React][#react] ![sass][#sass] ![Android][#android] ![TypeScript][#typescript] ![Material UI][#materialui] ![webpack][#webpack] ![Babel][#babel] ![Express][#express] ![MongoDB][#mongodb] ![Firebase][#firebase] ![Sketch][#sketch] ![Apache][#apache] ![OpenSSL][#openssl]
+> ##### _Learning_ &nbsp; ![Lavarel][#lavarel] ![Java][#java] ![Node.js][#nodejs] ![Python][#python] ![React][#react] ![sass][#sass] ![Android][#android] ![TypeScript][#typescript] ![Material UI][#materialui] ![webpack][#webpack] ![Babel][#babel] ![Express][#express] ![MongoDB][#mongodb] ![Firebase][#firebase] ![Sketch][#sketch]
 
 ## Socials
 
