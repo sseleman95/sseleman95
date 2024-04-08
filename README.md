@@ -104,10 +104,10 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [#sass]:            https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white
 [#android]:         https://img.shields.io/badge/Android-05150C?style=flat&logo=android&logoColor=white
 
-[#lean]:         https://img.shields.io/badge/Lean?style=flat&logo=lean&logoColor=white
-[#scrum]:         https://img.shields.io/badge/Scrum?style=flat&logo=scrum&logoColor=white
-[#kanban]:         https://img.shields.io/badge/Kanban?style=flat&logo=kanban&logoColor=white
-[#pair-programming]:         https://img.shields.io/badge/-Pair%20Programming?style=flat&logo=pair-programming&logoColor=white
+[#lean]:            https://img.shields.io/badge/Lean?style=flat&logo=methodologie-lean&logoColor=white
+[#scrum]:           https://img.shields.io/badge/Scrum?style=flat&logo=methodologie-scrum&logoColor=white
+[#kanban]:          https://img.shields.io/badge/Kanban?style=flat&logo=methodologie-kanban&logoColor=white
+[#pair-programming]: https://img.shields.io/badge/-Pair%20Programming?style=flat&logo=methodologie-pair-programming&logoColor=white
 
 [#typescript]:      https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white
 [#hackerrank]:      https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white
