@@ -19,28 +19,20 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
-
-<a href="https://www.twitter.com/ImDigamberSingh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ImDigamberSingh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/SinghDigamber" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SinghDigamber?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ## Skills
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
@@ -55,7 +47,6 @@ src="https://img.shields.io/github/followers/SinghDigamber?logo=github&style=for
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
-
 
 ## Socials
 
@@ -114,14 +105,22 @@ src="https://img.shields.io/github/followers/SinghDigamber?logo=github&style=for
 [#react]:           https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
 [#sass]:            https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white
 [#typescript]:      https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white
-[#discord]:         https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white
-[#dockerhub]:       https://img.shields.io/badge/Docker_Hub-294356?style=flat&logo=docker&logoColor=white
-[#gmail]:           https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white
 [#hackerrank]:      https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white
+[#dockerhub]:       https://img.shields.io/badge/Docker_Hub-294356?style=flat&logo=docker&logoColor=white
+[#discord]:         https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white
+[#gmail]:           https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white
 [#linkedin]:        https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin
-[@discord]:         https://discordapp.com/users/336617881985089537 "Contact me on Discord!"
-[@gmail]:           mailto:hasanumutyagci@gmail.com "Send me an email!"
+[#facebook]:        https://img.shields.io/badge/Facebook-0A66C2?style=flat&logo=facebook
+[#twitch]:          https://img.shields.io/badge/Twitch-0A66C2?style=flat&logo=twitch
+[#dribbble]:        https://img.shields.io/badge/Dribbble-0A66C2?style=flat&logo=dribbble
+[#youtube]:         https://img.shields.io/badge/Youtube-0A66C2?style=flat&logo=youtube
+[#dev]:             https://img.shields.io/badge/DEV-0A66C2?style=flat&logo=dev
+[@gmail]:           mailto:sseleman95@gmail.com "Send me an email!"
 [@linkedin]:        https://www.linkedin.com/in/sseleman95
-[@dockerhub]:       https://hub.docker.com/u/huyagci
-[@gitlab]:          https://gitlab.com/huyagci
-[@hackerrank]:      https://www.hackerrank.com/huyagci
+[@facebook]:        https://www.facebook.com/sseleman95.liza
+
+[@discyord]:         https://discordapp.com/users/401401066991779840 "Contact me on Discord!"
+[@twitch]:          https://www.twitch.tv/sseleman95
+[@dribbble]:        https://dribbble.com/sseleman
+[@youtube]:         https://www.youtube.com/sseleman95
+[@dev]:             https://dev.to/sseleman95
