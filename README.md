@@ -112,8 +112,8 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [#facebook]:        https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white
 [#twitch]:          https://img.shields.io/badge/Twitch-A970FF?style=flat&logo=twitch&logoColor=white
 [#dribbble]:        https://img.shields.io/badge/Dribbble-CD4E8E?style=flat&logo=dribbble&logoColor=white
-[#youtube]:         https://img.shields.io/badge/Youtube-red?style=flat&logo=youtube
-[#dev]:             https://img.shields.io/badge/DEV-000000?style=flat&logo=dev
+[#youtube]:         https://img.shields.io/badge/Youtube-red?style=flat&logo=youtube&logoColor=white
+[#dev]:             https://img.shields.io/badge/DEV-000000?style=flat&logo=dev&logoColor=white
 [@gmail]:           mailto:sseleman95@gmail.com "Send me an email!"
 [@linkedin]:        https://www.linkedin.com/in/sseleman95
 [@facebook]:        https://www.facebook.com/sseleman95.liza
