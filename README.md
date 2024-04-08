@@ -108,9 +108,9 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [#dockerhub]:       https://img.shields.io/badge/Docker_Hub-294356?style=flat&logo=docker&logoColor=white
 [#discord]:         https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white
 [#gmail]:           https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white
-[#linkedin]:        https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin
-[#facebook]:        https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook
-[#twitch]:          https://img.shields.io/badge/Twitch-A970FF?style=flat&logo=twitch
+[#linkedin]:        https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white
+[#facebook]:        https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white
+[#twitch]:          https://img.shields.io/badge/Twitch-A970FF?style=flat&logo=twitch&logoColor=white
 [#dribbble]:        https://img.shields.io/badge/Dribbble-CD4E8E?style=flat&logo=dribbble&logoColor=white
 [#youtube]:         https://img.shields.io/badge/Youtube-red?style=flat&logo=youtube
 [#dev]:             https://img.shields.io/badge/DEV-000000?style=flat&logo=dev
