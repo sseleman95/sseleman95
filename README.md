@@ -116,6 +116,7 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [#gmail]:           https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white
 [#linkedin]:        https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin
 [#facebook]:        https://img.shields.io/badge/Facebook-0A66C2?style=flat&logo=facebook
+[#discyord]:        https://img.shields.io/badge/Discyord-0A66C2?style=flat&logo=discyord
 [#twitch]:          https://img.shields.io/badge/Twitch-0A66C2?style=flat&logo=twitch
 [#dribbble]:        https://img.shields.io/badge/Dribbble-0A66C2?style=flat&logo=dribbble
 [#youtube]:         https://img.shields.io/badge/Youtube-0A66C2?style=flat&logo=youtube
