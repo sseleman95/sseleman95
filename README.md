@@ -79,6 +79,7 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [#mariadb]:          https://img.shields.io/badge/MariaDB-4E629A?style=flat&logo=mariadb&logoColor=white
 [#postgresql]:       https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white
 [#php]:              https://img.shields.io/badge/PHP-4D588E?style=flat&logo=php&logoColor=white
+[#wordpress]:        https://img.shields.io/badge/WordPress-1E8CBE?style=flat&logo=wordpress&logoColor=white
 [#codeigniter]:      https://img.shields.io/badge/CodeIgniter-DD4814?style=flat&logo=codeigniter&logoColor=white
 [#lavarel]:          https://img.shields.io/badge/Lavarel-DD4814?style=flat&logo=lavarel&logoColor=white
 [#java]:             https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white
@@ -88,12 +89,12 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [#sass]:             https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white
 [#android]:          https://img.shields.io/badge/Android-05150C?style=flat&logo=android&logoColor=white
 
-[#materialui]:       https://img.shields.io/badge/material%20ui-0085ff?style=flat&logo=materialui&logoColor=white
-[#redux]:            https://img.shields.io/badge/redux-7248B6?style=flat&logo=redux&logoColor=white
-[#webpack]:          https://img.shields.io/badge/web%20pack-2E74BC?style=flat&logo=webpack&logoColor=white
-[#babel]:            https://img.shields.io/badge/babel-F1D53C?style=flat&logo=babel&logoColor=white
-[#express]:          https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white
-[#firebase]:         https://img.shields.io/badge/firebase-FCE927?style=flat&logo=firebase&logoColor=white
+[#materialui]:       https://img.shields.io/badge/Material%20UI-0085ff?style=flat&logo=materialui&logoColor=white
+[#redux]:            https://img.shields.io/badge/Redux-7248B6?style=flat&logo=redux&logoColor=white
+[#webpack]:          https://img.shields.io/badge/Web%20Pack-2E74BC?style=flat&logo=webpack&logoColor=white
+[#babel]:            https://img.shields.io/badge/Babel-F1D53C?style=flat&logo=babel&logoColor=white
+[#express]:          https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white
+[#firebase]:         https://img.shields.io/badge/Firebase-FCE927?style=flat&logo=firebase&logoColor=white
 
 [#sketch]:           https://img.shields.io/badge/sketch-FDAD00?style=flat&logo=sketch&logoColor=white
 [#apache]:           https://img.shields.io/badge/Apache%202-BA3560?style=flat&logo=apache&logoColor=white
