@@ -50,7 +50,7 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 
 ## Socials
 
-[![Discyord][#discyord]][@discyord] [![Twitch][#twitch]][@twitch] [![Dribbble][#dribbble]][@dribbble] [![Youtube][#youtube]][@youtube] [![DEV][#dev]][@dev]
+[![Discord][#discord]][@discord] [![Twitch][#twitch]][@twitch] [![Dribbble][#dribbble]][@dribbble] [![Youtube][#youtube]][@youtube] [![DEV][#dev]][@dev]
 
 ## Badges
 
@@ -110,7 +110,6 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [#gmail]:           https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white
 [#linkedin]:        https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin
 [#facebook]:        https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook
-[#discyord]:        https://img.shields.io/badge/Discyord-5865F2?style=flat&logo=discyord
 [#twitch]:          https://img.shields.io/badge/Twitch-A970FF?style=flat&logo=twitch
 [#dribbble]:        https://img.shields.io/badge/Dribbble-CD4E8E?style=flat&logo=dribbble&logoColor=white
 [#youtube]:         https://img.shields.io/badge/Youtube-red?style=flat&logo=youtube
@@ -119,7 +118,7 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [@linkedin]:        https://www.linkedin.com/in/sseleman95
 [@facebook]:        https://www.facebook.com/sseleman95.liza
 
-[@discyord]:         https://discordapp.com/users/401401066991779840 "Contact me on Discord!"
+[@discord]:         https://discordapp.com/users/401401066991779840 "Contact me on Discord!"
 [@twitch]:          https://www.twitch.tv/sseleman95
 [@dribbble]:        https://dribbble.com/sseleman
 [@youtube]:         https://www.youtube.com/sseleman95
