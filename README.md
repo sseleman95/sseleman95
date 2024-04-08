@@ -50,13 +50,7 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 
 ## Socials
 
-<a href="https://www.dev.to/singhdigamber" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/SinghDigamber" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rawat_d59" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rawatdigamber" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ImDigamberSingh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCIf1tGU8-Tv0tFNoS_reV8Q" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
-
-[![Discyord][#discyord]][@discyord]
-[![Twitch][#twitch]][@twitch]
-[![Dribbble][#dribbble]][@dribbble]
-[![Youtube][#youtube]][@youtube]
-[![DEV][#dev]][@dev]
+[![Discyord][#discyord]][@discyord] [![Twitch][#twitch]][@twitch] [![Dribbble][#dribbble]][@dribbble] [![Youtube][#youtube]][@youtube] [![DEV][#dev]][@dev]
 
 ## Badges
 
@@ -115,12 +109,12 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [#discord]:         https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white
 [#gmail]:           https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white
 [#linkedin]:        https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin
-[#facebook]:        https://img.shields.io/badge/Facebook-0A66C2?style=flat&logo=facebook
-[#discyord]:        https://img.shields.io/badge/Discyord-0A66C2?style=flat&logo=discyord
-[#twitch]:          https://img.shields.io/badge/Twitch-0A66C2?style=flat&logo=twitch
-[#dribbble]:        https://img.shields.io/badge/Dribbble-0A66C2?style=flat&logo=dribbble
-[#youtube]:         https://img.shields.io/badge/Youtube-0A66C2?style=flat&logo=youtube
-[#dev]:             https://img.shields.io/badge/DEV-0A66C2?style=flat&logo=dev
+[#facebook]:        https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook
+[#discyord]:        https://img.shields.io/badge/Discyord-5865F2?style=flat&logo=discyord
+[#twitch]:          https://img.shields.io/badge/Twitch-A970FF?style=flat&logo=twitch
+[#dribbble]:        https://img.shields.io/badge/Dribbble-CD4E8E?style=flat&logo=dribbble&logoColor=white
+[#youtube]:         https://img.shields.io/badge/Youtube-red?style=flat&logo=youtube
+[#dev]:             https://img.shields.io/badge/DEV-000000?style=flat&logo=dev
 [@gmail]:           mailto:sseleman95@gmail.com "Send me an email!"
 [@linkedin]:        https://www.linkedin.com/in/sseleman95
 [@facebook]:        https://www.facebook.com/sseleman95.liza
