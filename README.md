@@ -8,7 +8,7 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 ## 🚀💻 Technologies & Tools
 > ##### _Common_ &nbsp; ![Linux][#linux] ![Git][#git] ![Github][#github] <!--![Gitlab][#gitlab]--> <!--![Jira Software][#jira-software]--> ![VS Code][#vs-code] ![Postman][#postman] ![Markdown][#markdown] ![LaTeX][#latex] ![Google Chrome][#google-chrome]
 > ##### _Designer_ &nbsp; ![Canva][#canva] ![Figma][#figma] ![Zeplin][#zeplin] ![Balsamiq][#balsamiq] ![Hotjar][#hotjar] ![Adobe Flash][#adobe-flash] ![Adobe Photoshop][#adobe-photoshop] ![CorelDRAW][#coreldraw]
-> ##### _Frontend_ &nbsp; ![HTML][#html] ![CSS][#css] ![Bootstrap][#bootstrap] ![Foundation][#foundation] ![Tachyons][#tachyons] ![Tailwind CCS][#tailwindcss] ![Bulma][#bulma] ![JavaScript][#javascript] ![jQuery][#jquery] ![Canva][#canva] ![Figma][#figma]
+> ##### _Frontend_ &nbsp; ![HTML][#html] ![CSS][#css] ![Bootstrap][#bootstrap] ![Foundation][#foundation] ![Tachyons][#tachyons] ![Tailwind CCS][#tailwindcss] ![Bulma][#bulma] ![JavaScript][#javascript] ![jQuery][#jquery]
 > ##### _DevOps_ &nbsp;&nbsp;&nbsp; ![Bash][#bash] ![Github Actions][#gh-actions] ![Gitlab CI/CD][#gl-cicd] ![Docker][#docker] ![Terraform][#terraform] ![AWS][#aws] ![Vagrant][#vagrant]
 > ##### _Learning_ &nbsp; ![Kubernetes][#kubernetes] ![Rancher][#rancher] ![Helm][#helm] ![Prometheus][#prometheus] ![Grafana][#grafana]
 > ##### _Up Next_ &nbsp;&nbsp; ![PostgresSQL][#postgresql] ![Ansible][#ansible] ![Jenkins][#jenkins] ![Go][#go]
@@ -80,9 +80,9 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [#figma]:           https://img.shields.io/badge/Figma-4169E1?style=flat&logo=figma
 [#zeplin]:          https://img.shields.io/badge/Zeplin-FDBD39?style=flat&logo=zeplin
 [#balsamiq]:        https://img.shields.io/badge/Balsamiq-333D42?style=flat&logo=balsamiq
-[#hotjar]:          https://img.shields.io/badge/Hotjar-FF3C00?style=flat&logo=hotjar
-[#adobe-flash]:     https://img.shields.io/badge/Adobe-Flash-221210?style=flat&logo=adobe-flash
-[#adobe-photoshop]: https://img.shields.io/badge/Adobe-Photoshop-001D34?style=flat&logo=adobe-photoshop
+[#hotjar]:          https://img.shields.io/badge/Hotjar-FF3C00?style=flat&logo=hotjar&logoColor=white
+[#adobe-flash]:     https://img.shields.io/badge/-Adobe%20Flash-221210?style=flat&logo=adobe-flash
+[#adobe-photoshop]: https://img.shields.io/badge/-Adobe%20Photoshop-001D34?style=flat&logo=adobe-photoshop
 [#coreldraw]:       https://img.shields.io/badge/CorelDRAW-585858?style=flat&logo=coreldraw
 [#gh-actions]:      https://img.shields.io/badge/Actions-2088FF?style=flat&logo=githubactions&logoColor=white "Github Actions"
 [#gl-cicd]:         https://img.shields.io/badge/CI/CD-330F63?style=flat&logo=gitlab "Gitlab CI/CD"
