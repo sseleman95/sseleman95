@@ -7,7 +7,7 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 
 ## 🚀💻 Technologies & Tools
 > ##### _Common_ &nbsp; ![Linux][#linux] ![Git][#git] ![Github][#github] <!--![Gitlab][#gitlab]--> <!--![Jira Software][#jira-software]--> ![VS Code][#vs-code] ![Postman][#postman] ![Markdown][#markdown] ![LaTeX][#latex] ![Google Chrome][#google-chrome]
-> ##### _Designer_ &nbsp; ![Canva][#canva] ![Figma][#figma] ![Zeplin][#zeplin] ![Balsamiq][#balsamiq] ![Hotjar][#hotjar] ![Adobe Flash][#adobe-flash] ![Adobe Photoshop][#adobe-photoshop] ![CorelDRAW][#coreldraw]
+> ##### _Design_ &nbsp; ![Canva][#canva] ![Figma][#figma] ![Zeplin][#zeplin] ![Balsamiq][#balsamiq] ![Hotjar][#hotjar] ![Adobe Flash][#adobe-flash] ![Adobe Photoshop][#adobe-photoshop] ![CorelDRAW][#coreldraw]
 > ##### _Frontend_ &nbsp; ![HTML][#html] ![CSS][#css] ![Bootstrap][#bootstrap] ![Foundation][#foundation] ![Tachyons][#tachyons] ![Tailwind CCS][#tailwindcss] ![Bulma][#bulma] ![JavaScript][#javascript] ![jQuery][#jquery]
 > ##### _DevOps_ &nbsp;&nbsp;&nbsp; ![Bash][#bash] ![Github Actions][#gh-actions] ![Gitlab CI/CD][#gl-cicd] ![Docker][#docker] ![Terraform][#terraform] ![AWS][#aws] ![Vagrant][#vagrant]
 > ##### _Learning_ &nbsp; ![Kubernetes][#kubernetes] ![Rancher][#rancher] ![Helm][#helm] ![Prometheus][#prometheus] ![Grafana][#grafana]
