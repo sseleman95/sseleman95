@@ -7,7 +7,7 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 
 ## 🚀💻 Technologies & Tools
 > ##### _Common_ &nbsp; ![Linux][#linux] ![Git][#git] ![Github][#github] <!--![Gitlab][#gitlab]--> <!--![Jira Software][#jira-software]--> ![VS Code][#vs-code] ![Postman][#postman] ![Markdown][#markdown] ![LaTeX][#latex]
-> ##### _Frontend_ &nbsp; ![HTML][#html] ![CSS][#css] ![Bootstrap][#bootstrap] ![JavaScript][#javascript] ![jQuery][#jquery] ![Canva][#canva] ![Figma][#figma]
+> ##### _Frontend_ &nbsp; ![HTML][#html] ![CSS][#css] ![Bootstrap][#bootstrap] ![Foundation][#foundation] ![Tachyons][#tachyons] ![Tailwind CCS][#tailwindcss] ![Bulma][#bulma] ![JavaScript][#javascript] ![jQuery][#jquery] ![Canva][#canva] ![Figma][#figma]
 > ##### _DevOps_ &nbsp;&nbsp;&nbsp; ![Bash][#bash] ![Github Actions][#gh-actions] ![Gitlab CI/CD][#gl-cicd] ![Docker][#docker] ![Terraform][#terraform] ![AWS][#aws] ![Vagrant][#vagrant]
 > ##### _Learning_ &nbsp; ![Kubernetes][#kubernetes] ![Rancher][#rancher] ![Helm][#helm] ![Prometheus][#prometheus] ![Grafana][#grafana]
 > ##### _Up Next_ &nbsp;&nbsp; ![PostgresSQL][#postgresql] ![Ansible][#ansible] ![Jenkins][#jenkins] ![Go][#go]
@@ -69,7 +69,10 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [#aws]:             https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black
 [#bash]:            https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white "Bash Script"
 [#bootstrap]:       https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white
-[#foundation]:       https://img.shields.io/badge/Foundation-2C3840?style=flat&logo=foundation&logoColor=white
+[#foundation]:      https://img.shields.io/badge/Foundation-2C3840?style=flat&logo=foundation&logoColor=white
+[#tachyons]:        https://img.shields.io/badge/Tachyons-white?style=flat&logo=tachyons&logoColor=dark
+[#tailwindcss]:     https://img.shields.io/badge/Tailwindcss-38BDF8?style=flat&logo=tailwindcss&logoColor=white
+[#bulma]:           https://img.shields.io/badge/Bulma-00D1B2?style=flat&logo=bulma&logoColor=white
 [#css]:             https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3
 [#docker]:          https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white
 [#git]:             https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white
