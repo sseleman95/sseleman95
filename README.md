@@ -9,16 +9,15 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 > ##### _Common_ &nbsp; ![Linux][#linux] ![Git][#git] ![Github][#github] <!--![Gitlab][#gitlab]--> <!--![Jira Software][#jira-software]--> ![VS Code][#vs-code] ![Postman][#postman] ![Markdown][#markdown] ![LaTeX][#latex] ![Google Chrome][#google-chrome]
 > ##### _Design_ &nbsp; ![Canva][#canva] ![Figma][#figma] ![Zeplin][#zeplin] ![Balsamiq][#balsamiq] ![Hotjar][#hotjar] ![Adobe Flash][#adobe-flash] ![Adobe Photoshop][#adobe-photoshop] ![CorelDRAW][#coreldraw]
 > ##### _Frontend_ &nbsp; ![HTML][#html] ![CSS][#css] ![Bootstrap][#bootstrap] ![Foundation][#foundation] ![Tachyons][#tachyons] ![Tailwind CCS][#tailwindcss] ![Bulma][#bulma] ![JavaScript][#javascript] ![jQuery][#jquery]
-> ##### _DevOps_ &nbsp;&nbsp;&nbsp; ![Bash][#bash] ![Github Actions][#gh-actions] ![Gitlab CI/CD][#gl-cicd] ![Docker][#docker] ![Terraform][#terraform] ![AWS][#aws] ![Vagrant][#vagrant]
+> ##### _Backend_ &nbsp; ![PHP][#php]
+> ##### _Data Base_ &nbsp; ![MySQL][#mysql] ![MariaDB][#mariadb] ![PostgresSQL][#postgresql]
+<!-->> ##### _DevOps_ &nbsp;&nbsp;&nbsp; ![Bash][#bash] ![Github Actions][#gh-actions] ![Gitlab CI/CD][#gl-cicd] ![Docker][#docker] ![Terraform][#terraform] ![AWS][#aws] ![Vagrant][#vagrant]-->
 > ##### _Learning_ &nbsp; ![Kubernetes][#kubernetes] ![Rancher][#rancher] ![Helm][#helm] ![Prometheus][#prometheus] ![Grafana][#grafana]
-> ##### _Up Next_ &nbsp;&nbsp; ![PostgresSQL][#postgresql] ![Ansible][#ansible] ![Jenkins][#jenkins] ![Go][#go]
+> ##### _Up Next_ &nbsp;&nbsp; ![Ansible][#ansible] ![Jenkins][#jenkins] ![Go][#go]
 
 
   ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
-  ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
   ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -98,13 +97,15 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [#linux]:           https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black
 [#markdown]:        https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown
 [#latex]:           https://img.shields.io/badge/LaTeX-fffff?style=flat&logo=latex
-[#postgresql]:      https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white
 [#prometheus]:      https://img.shields.io/badge/Prometheus-20232A?style=flat&logo=prometheus
 [#rancher]:         https://img.shields.io/badge/Rancher-0075A8?style=flat&logo=rancher
 [#terraform]:       https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform
 [#vagrant]:         https://img.shields.io/badge/Vagrant-1868F2?style=flat&logo=vagrant
 [#mongodb]:         https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white
 [#mysql]:           https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white
+[#mariadb]:        https://img.shields.io/badge/MariaDB-4E629A?style=flat&logo=mariadb&logoColor=white
+[#postgresql]:      https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white
+[#php]:             https://img.shields.io/badge/PHP-black?style=flat-square&logo=php
 [#nodejs]:          https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white
 [#python]:          https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
 [#react]:           https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
