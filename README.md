@@ -87,15 +87,16 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [#sass]:             https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white
 [#android]:          https://img.shields.io/badge/Android-05150C?style=flat&logo=android&logoColor=white
 
-[#materialui]:          https://img.shields.io/badge/materialui?style=flat&logo=materialui
-[#redux]:          https://img.shields.io/badge/redux?style=flat&logo=redux
-[#webpack]:          https://img.shields.io/badge/webpack?style=flat&logo=webpack
-[#babel]:          https://img.shields.io/badge/babel?style=flat&logo=babel
-[#express]:          https://img.shields.io/badge/express?style=flat&logo=express
-[#firebase]:          https://img.shields.io/badge/firebase?style=flat&logo=firebase
-[#sketch]:          https://img.shields.io/badge/sketch?style=flat&logo=sketch
-[#apache]:          https://img.shields.io/badge/Apache2-black?style=flat&logo=apache
-[#openssl]:          https://img.shields.io/badge/OpenSSL-black?style=flat&logo=openssl
+[#materialui]:       https://img.shields.io/badge/material%20ui-0085ff?style=flat&logo=materialui&logoColor=white
+[#redux]:            https://img.shields.io/badge/redux-7248B6?style=flat&logo=redux&logoColor=white
+[#webpack]:          https://img.shields.io/badge/web%20pack-2E74BC?style=flat&logo=webpack&logoColor=white
+[#babel]:            https://img.shields.io/badge/babel-F1D53C?style=flat&logo=babel&logoColor=white
+[#express]:          https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white
+[#firebase]:         https://img.shields.io/badge/firebase-FCE927?style=flat&logo=firebase&logoColor=white
+
+[#sketch]:           https://img.shields.io/badge/sketch-FDAD00?style=flat&logo=sketch&logoColor=white
+[#apache]:           https://img.shields.io/badge/Apache%202-BA3560?style=flat&logo=apache&logoColor=white
+[#openssl]:          https://img.shields.io/badge/Open%20SSL-6E1311?style=flat&logo=openssl&logoColor=white
 
 [#lean]:             https://img.shields.io/badge/lean-methodology?style=flat&logo=lean-methodology
 [#scrum]:            https://img.shields.io/badge/scrum-methodology?style=flat&logo=scrum-methodology
