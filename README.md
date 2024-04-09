@@ -9,7 +9,7 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 > ##### _Common_ &nbsp; ![Linux][#linux] ![Git][#git] ![Github][#github] ![VS Code][#vs-code] ![Postman][#postman] ![Markdown][#markdown] ![LaTeX][#latex] ![Google Chrome][#google-chrome]
 > ##### _Design_ &nbsp; ![Canva][#canva] ![Figma][#figma] ![Zeplin][#zeplin] ![Balsamiq][#balsamiq] ![Hotjar][#hotjar] ![Adobe Flash][#adobe-flash] ![Adobe Photoshop][#adobe-photoshop] ![CorelDRAW][#coreldraw]
 > ##### _Frontend_ &nbsp; ![HTML][#html] ![CSS][#css] ![Bootstrap][#bootstrap] ![Foundation][#foundation] ![Tachyons][#tachyons] ![Tailwind CCS][#tailwindcss] ![Bulma][#bulma] ![JavaScript][#javascript] ![jQuery][#jquery]
-> ##### _Backend_ &nbsp; ![PHP][#php] ![CodeIgniter][#codeigniter]
+> ##### _Backend_ &nbsp; ![PHP][#php] ![CodeIgniter][#wordpress] ![WordPress][#wordpress]
 > ##### _Dev Server_ &nbsp; ![Apache][#apache] ![OpenSSL][#openssl]
 > ##### _Data Base_ &nbsp; ![MySQL][#mysql] ![MariaDB][#mariadb] ![PostgresSQL][#postgresql]
 > ##### _Methodologies_ &nbsp; ![Lean][#lean] ![Scrum][#scrum] ![Kanban][#kanban] ![Pair Programming][#pair-programming]
