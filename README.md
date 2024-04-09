@@ -10,7 +10,7 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 > ##### _Design_ &nbsp; ![Canva][#canva] ![Figma][#figma] ![Zeplin][#zeplin] ![Balsamiq][#balsamiq] ![Hotjar][#hotjar] ![Adobe Flash][#adobe-flash] ![Adobe Photoshop][#adobe-photoshop] ![CorelDRAW][#coreldraw]
 > ##### _Frontend_ &nbsp; ![HTML][#html] ![CSS][#css] ![Bootstrap][#bootstrap] ![Foundation][#foundation] ![Tachyons][#tachyons] ![Tailwind CCS][#tailwindcss] ![Bulma][#bulma] ![JavaScript][#javascript] ![jQuery][#jquery]
 > ##### _Backend_ &nbsp; ![PHP][#php] ![CodeIgniter][#codeigniter] ![WordPress][#wordpress]
-> ##### _Dev Server_ &nbsp; ![Apache][#apache] ![OpenSSL][#openssl]
+> ##### _Dev Server_ &nbsp; ![Apache][#apache] ![OpenSSL][#openssl] ![Nginx][#nginx]
 > ##### _Data Base_ &nbsp; ![MySQL][#mysql] ![MariaDB][#mariadb] ![PostgresSQL][#postgresql]
 > ##### _Methodologies_ &nbsp; ![Lean][#lean] ![Scrum][#scrum] ![Kanban][#kanban] ![Pair Programming][#pair-programming]
 > ##### _Learning_ &nbsp; ![Lavarel][#lavarel] ![Java][#java] ![Node.js][#nodejs] ![Python][#python] ![React][#react] ![sass][#sass] ![Android][#android] ![TypeScript][#typescript] ![Material UI][#materialui] ![webpack][#webpack] ![Babel][#babel] ![Express][#express] ![MongoDB][#mongodb] ![Firebase][#firebase] ![Sketch][#sketch]
@@ -98,6 +98,7 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 
 [#sketch]:           https://img.shields.io/badge/sketch-FDAD00?style=flat&logo=sketch&logoColor=white
 [#apache]:           https://img.shields.io/badge/Apache%202-BA3560?style=flat&logo=apache&logoColor=white
+[#nginx]:            https://img.shields.io/badge/Nginx-009400?style=flat&logo=nginx&logoColor=white
 [#openssl]:          https://img.shields.io/badge/Open%20SSL-6E1311?style=flat&logo=openssl&logoColor=white
 
 [#lean]:             https://img.shields.io/badge/lean-methodology?style=flat&logo=lean-methodology
