@@ -101,8 +101,8 @@ Programmer | UI/UX Designer | Layout/Web Development | Database Developer | Logo
 [#nginx]:            https://img.shields.io/badge/Nginx-009400?style=flat&logo=nginx&logoColor=white
 [#openssl]:          https://img.shields.io/badge/Open%20SSL-6E1311?style=flat&logo=openssl&logoColor=white
 
-[#graphql]:          https://img.shields.io/badge/GrapHQL-6E1311?style=flat&logo=graphql&logoColor=white
-[#openssl]:          https://img.shields.io/badge/Open%20SSL-6E1311?style=flat&logo=openssl&logoColor=white
+[#graphql]:          https://img.shields.io/badge/GrapHQL-DE33A6?style=flat&logo=graphql&logoColor=white
+[#rest]:             https://img.shields.io/badge/REST-002A4E?style=flat&logo=rest&logoColor=white
 
 [#lean]:             https://img.shields.io/badge/lean-methodology?style=flat&logo=lean-methodology
 [#scrum]:            https://img.shields.io/badge/scrum-methodology?style=flat&logo=scrum-methodology
