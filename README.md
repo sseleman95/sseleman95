@@ -1,7 +1,7 @@
 Hi 👋 My name is Daymar J. de G. Liza
 ===============================
 
-Profesional de la informática, con habilidades avanzadas en marketing digital y SEO, así como conocimientos y experiencia contrastada en creación, gestión y mantenimiento de sitios web desarrollados con PHP.
+Computing professional, with advanced skills in digital marketing and SEO, as well as knowledge and proven experience in creating, managing and maintaining websites developed with PHP.
 
 ---------------
 
