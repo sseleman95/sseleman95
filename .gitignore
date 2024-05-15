@@ -62,10 +62,10 @@ writable/uploads/*
 !writable/uploads/index.html
 
 writable/debugbar/*
-!writable/uploads/index.html
+!writable/debugbar/index.html
 
 writable/templates/*
-!writable/uploads/index.html
+!writable/templates/index.html
 
 php_errors.log
 
@@ -134,9 +134,9 @@ nb-configuration.xml
 /.phpunit.*.cache
 
 #-------------------------
-# Templete
+# Template
 #-------------------------
-templetes/*
+templates/*
 
 #-------------------------
 # Data Base
