@@ -1,7 +1,7 @@
 Hi 👋 My name is Daymar J. de G. Liza
 ===============================
 
-Computing professional, with advanced skills in digital marketing and SEO, as well as knowledge and proven experience in creating, managing and maintaining websites developed with PHP.
+IT professional with proven experience in software development, management, and maintenance, as well as algorithmic trading. Additionally, I specialize in Graphic Design, Web Design, UX/UI, and Logo Design, creating impactful and functional visual experiences. My expertise in Digital Marketing and SEO enables me to optimize brands' online presence and drive their growth in digital environments. Passionate about innovation and efficiency, I strive to deliver creative and technological solutions for every project.
 
 ---------------
 
