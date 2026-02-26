@@ -23,9 +23,9 @@ IT professional with proven experience in software development, management, and 
 
 [![sseleman95 GitHub stats](https://github-readme-stats.vercel.app/api?username=sseleman95&show_icons=true&theme=algolia&show=reviews,discussions_started,discussions_answered,prs_merged)](https://github.com/sseleman95)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseleman95&layout=compact&langs_count=8&theme=algolia)](https://github.com/sseleman95)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseleman95&layout=compact&langs_count=8&theme=algolia)](https://github.com/sseleman95)-->
 
-[![sseleman95 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sseleman95&layout=compact&theme=algolia)](https://github.com/sseleman95)
+<!--[![sseleman95 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sseleman95&layout=compact&theme=algolia)](https://github.com/sseleman95)-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sseleman95&show_icons=true&theme=algolia)](https://github.com/sseleman95)
 
