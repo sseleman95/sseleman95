@@ -8,12 +8,12 @@ IT professional with proven experience in software development, management, and 
 ## 🚀💻 Technologies & Tools
 > ##### _Common_ &nbsp; ![Linux][#linux] ![Git][#git] ![Github][#github] ![VS Code][#vs-code] ![Postman][#postman] ![Markdown][#markdown] ![LaTeX][#latex] ![Google Chrome][#google-chrome]
 > ##### _Design_ &nbsp; ![Canva][#canva] ![Figma][#figma] ![Zeplin][#zeplin] ![Balsamiq][#balsamiq] ![Hotjar][#hotjar] ![Adobe Flash][#adobe-flash] ![Adobe Photoshop][#adobe-photoshop] ![CorelDRAW][#coreldraw]
-> ##### _Frontend_ &nbsp; ![HTML][#html] ![CSS][#css] ![Bootstrap][#bootstrap] ![Foundation][#foundation] ![Tachyons][#tachyons] ![Tailwind CCS][#tailwindcss] ![Bulma][#bulma] ![JavaScript][#javascript] ![jQuery][#jquery]
+> ##### _Frontend_ &nbsp; ![HTML][#html] ![CSS][#css] ![Bootstrap][#bootstrap] ![Foundation][#foundation] ![Tachyons][#tachyons] ![Tailwind CCS][#tailwindcss] ![Bulma][#bulma] ![Material UI][#materialui] ![JavaScript][#javascript] ![jQuery][#jquery]
 > ##### _Backend_ &nbsp; ![PHP][#php] ![CodeIgniter][#codeigniter] ![WordPress][#wordpress]
 > ##### _Dev Server_ &nbsp; ![Apache][#apache] ![OpenSSL][#openssl] ![Nginx][#nginx]
 > ##### _Data Base_ &nbsp; ![MySQL][#mysql] ![MariaDB][#mariadb] ![PostgresSQL][#postgresql]
 > ##### _Methodologies_ &nbsp; ![Lean][#lean] ![Scrum][#scrum] ![Kanban][#kanban] ![Pair Programming][#pair-programming]
-> ##### _Learning_ &nbsp; ![Lavarel][#lavarel] ![Java][#java] ![Node.js][#nodejs] ![Python][#python] ![React][#react] ![sass][#sass] ![Android][#android] ![TypeScript][#typescript] ![Material UI][#materialui] ![webpack][#webpack] ![Babel][#babel] ![Express][#express] ![MongoDB][#mongodb] ![Firebase][#firebase] ![Sketch][#sketch] ![GrapHQL][#graphql]
+> ##### _Learning_ &nbsp; ![Lavarel][#lavarel] ![Java][#java] ![Node.js][#nodejs] ![Python][#python] ![React][#react] ![sass][#sass] ![Android][#android] ![TypeScript][#typescript] ![webpack][#webpack] ![Babel][#babel] ![Express][#express] ![MongoDB][#mongodb] ![Firebase][#firebase] ![Sketch][#sketch] ![GrapHQL][#graphql]
 
 ## Socials
 
